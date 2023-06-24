@@ -1,0 +1,4 @@
+name: Vladimir T,
+age": 30,
+number Of Pets: 1
+desired Salary: 1000000
